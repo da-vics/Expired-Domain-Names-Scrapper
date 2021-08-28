@@ -1,7 +1,0 @@
-Install project dependencies: pip install –r requirements.txt
-Download chrome driver-> select from options your browser version https://sites.google.com/a/chromium.org/chromedriver/downloads 
-Place it in your C Drive; C:\chromedriver.exe
-Run the program using python main.py
-CsvData would be located in CsvData Directory 
-
-
